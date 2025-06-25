@@ -50,7 +50,7 @@
 ## 📫 Contato
 
 - ✉️ **marcelo.gustavodev@hotmail.com**
-- 💼 [**LinkedIn**](linkedin.com/in/marcelo-gustavo-santos)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/marcelo-gustavo-santos/)
 - 🌐 [**Site Portfólio**](https://www.alphaetn.com.br)
 
 ---
